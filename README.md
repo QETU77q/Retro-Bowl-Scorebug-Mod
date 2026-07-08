@@ -6,6 +6,8 @@ Retro Bowl is a Retro Football game with...
 -Kickoffs 
 <br>
 -and more. 
+<br>
+And a new scorebug
 <br><br>
 You cant play this if you download it so host to an webpage (vercel, netlify, etc) or download it at this other <a href="https://github.com/CAPPRIME/Retro-Bowl-Download">repository</a><br>
 Have fun <br>
